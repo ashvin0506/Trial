@@ -1,0 +1,8 @@
+com\accenture\utilities\ExcelUtilities.class
+com\accenture\pages\HomePage.class
+com\accenture\test\NewTest.class
+com\accenture\test\RegistrationTest.class
+Demo\Selenium07_25\AppTest.class
+com\accenture\pages\Registration.class
+com\accenture\utilities\MyListener.class
+com\accenture\test\LoginTest.class
